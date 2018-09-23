@@ -1,19 +1,25 @@
 
 head {
-	background-color: #DFF6EF;
 	text-align: center;
-	font-size: 45px;
+	font-size: 60px;
+	color: white;
 }
 
 body {
-	font-family: "Courier New";
-	font-size: 25px;
+	font-family: "HelveticaNeue-Light";
+	background-color: #373535; 
+	color: #DDD5E1;
+	font-size: 18px;
 	text-align: center;
 }
 
-div {
-	width: 300px;
-	border: 15px solid green;
-	padding: 25px;
-	margin: 30px;
+hr {
+	width: 70%;
 }
+
+div {
+	margin: 30px;
+	margin-left: 220px;
+	margin-right: 220px;
+}
+
