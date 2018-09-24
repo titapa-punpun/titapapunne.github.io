@@ -1,25 +1,43 @@
 
 head {
-	color: #F0EEEE;
+	color: #090000;
+	font-family: "Times New Roman";
 }
 
 body {
-	background-color: #373535;
+	background-color: #F9F9F9;
 	text-align: center;
 }
  
 .line {
 	display: inline;
-	color: #FFFFFF;
 	font-size: 30px;
 	text-align: left;
+	text-decoration: none;
+	font-family: "Times New Roman";
+	word-spacing: 10px;
+	text-decoration: none;
+}
+
+a:link, a:visited {
+	text-decoration: none;
+}
+
+.line2 {
+	display: inline;
+	font-size: 30px;
+	text-align: left;
+	text-decoration: none;
+	font-family: "Times New Roman";
+	/*word-spacing: 0px;*/
 }
 
 a {
-	color: #FFFFFF;
+	color: #090000;
 }
 
 h1 {
 	text-align: left;
 	font-size: 30px;
+	color: #090000;
 }
