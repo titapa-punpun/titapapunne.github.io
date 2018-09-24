@@ -1,11 +1,25 @@
 
+head {
+	color: #F0EEEE;
+}
+
 body {
-	background-color: #DFF6EF;
+	background-color: #373535;
 	text-align: center;
+}
+ 
+.line {
+	display: inline;
+	color: #FFFFFF;
+	font-size: 30px;
+	text-align: left;
+}
+
+a {
+	color: #FFFFFF;
 }
 
 h1 {
-	font-family: "Cedarville Cursive";
-	font-size: 53px;
-	text-align: center;
+	text-align: left;
+	font-size: 30px;
 }

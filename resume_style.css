@@ -2,3 +2,8 @@
 hr {
 	width: 110%;
 }
+
+.line {
+	display: inline;
+	color: #FFFFFF;
+}

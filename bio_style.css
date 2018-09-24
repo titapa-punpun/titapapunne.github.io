@@ -8,9 +8,13 @@ head {
 body {
 	font-family: "HelveticaNeue-Light";
 	background-color: #373535; 
-	color: #DDD5E1;
+	color: #ACA2B2;
 	font-size: 18px;
 	text-align: center;
+}
+
+h2 {
+	font-size: 40px;
 }
 
 hr {
@@ -23,3 +27,15 @@ div {
 	margin-right: 220px;
 }
 
+.line {
+	display: inline;
+	color: #FFFFFF;
+}
+
+.bio {
+	color: #EAE6E6;
+}
+
+a {
+	color: #FFFFFF;
+}
