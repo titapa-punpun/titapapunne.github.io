@@ -20,13 +20,8 @@ a {
 	font-size: 30px;
 	text-decoration: none;
 	font-family: "Times New Roman";
-	word-spacing: 15px;
 	text-decoration: none;
 	text-align: center;
-}
-
-p {
-	line-height: 10px;
 }
 
 hr {
@@ -42,15 +37,15 @@ li {
 }
 
 .line {
-	text-align: center;
-	color: #FFFFFF;
 	display: inline;
 	font-size: 30px;
+	margin-left: 15px;
+	text-align: left;
 	text-decoration: none;
 	font-family: "Times New Roman";
 	word-spacing: 15px;
 	text-decoration: none;
-} 
+}
 
 div {
 	text-align: center;
