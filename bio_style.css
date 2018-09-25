@@ -11,7 +11,7 @@ body {
 	color: #ACA2B2;
 	font-size: 18px;
 	text-align: center;
-}
+} 
 
 h2 {
 	font-size: 40px;
@@ -29,7 +29,19 @@ div {
 
 .line {
 	display: inline;
-	color: #FFFFFF;
+	font-size: 30px;
+	margin-left: 15px;
+	text-align: left;
+	text-decoration: none;
+	font-family: "Times New Roman";
+	word-spacing: 15px;
+	text-decoration: none;
+}
+
+
+
+a:link, a:visited {
+	text-decoration: none;
 }
 
 .bio {

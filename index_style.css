@@ -1,4 +1,8 @@
 
+hr {
+	width: 160%;
+}
+
 head {
 	color: #090000;
 	font-family: "Times New Roman";
@@ -8,28 +12,31 @@ body {
 	background-color: #F9F9F9;
 	text-align: center;
 }
- 
+  
 .line {
 	display: inline;
 	font-size: 30px;
+	margin-left: 15px;
 	text-align: left;
 	text-decoration: none;
 	font-family: "Times New Roman";
-	word-spacing: 10px;
+	word-spacing: 15px;
 	text-decoration: none;
 }
+
+
 
 a:link, a:visited {
 	text-decoration: none;
 }
 
+
 .line2 {
 	display: inline;
 	font-size: 30px;
-	text-align: left;
+	text-align: center;
 	text-decoration: none;
 	font-family: "Times New Roman";
-	/*word-spacing: 0px;*/
 }
 
 a {
@@ -41,3 +48,5 @@ h1 {
 	font-size: 30px;
 	color: #090000;
 }
+
+
