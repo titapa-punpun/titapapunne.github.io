@@ -4,13 +4,14 @@ head {
 	font-size: 60px;
 	color: white;
 }
- 
+  
 body {
 	font-family: "HelveticaNeue-Light";
 	background-color: #2A2A2B; 
 	color: #BBA9C0;
 	font-size: 18px;
 	text-align: center;
+	padding-top: 20px;
 } 
 
 h2 {
@@ -22,6 +23,7 @@ hr {
 }
 
 div {
+	padding-bottom: 20px;
 	margin: 30px;
 	margin-left: 220px;
 	margin-right: 220px;
@@ -54,5 +56,6 @@ a {
 
 div {
 	text-align: center;
+	padding-top: 20px;
 }
 

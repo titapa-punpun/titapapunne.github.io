@@ -2,13 +2,14 @@
 hr {
 	width: 80%;
 }
-
+ 
 head {
 	color: #090000;
 	font-family: "Times New Roman";
 }
  
 body {
+	padding-top: 20px;
 	background-color: #F9F9F9;
 	text-align: center;
 }
@@ -37,6 +38,7 @@ a:link, a:visited {
 	text-align: center;
 	text-decoration: none;
 	font-family: "Times New Roman";
+	margin-left: 20px;
 }
 
 a {

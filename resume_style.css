@@ -13,7 +13,7 @@ body {
 a:link, a:visited {
 	text-decoration: none;
 } 
-
+ 
 a {
 	color: #FFFFFF;
 	display: inline;
@@ -37,6 +37,7 @@ li {
 }
 
 .line {
+	padding-top: 20px;
 	display: inline;
 	font-size: 30px;
 	margin-left: 15px;
@@ -45,13 +46,11 @@ li {
 	font-family: "Times New Roman";
 	word-spacing: 15px;
 	text-decoration: none;
+	text-align: center;
 }
 
 div {
 	text-align: center;
 }
-
-
-
 
 
