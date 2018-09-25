@@ -1,26 +1,36 @@
-
-hr {
-	width: 110%;
+head {
+	text-align: center;
 }
 
 body {
 	font-family: "HelveticaNeue-Light";
 	background-color: #2A2A2B; 
 	color: #DDDDDF;
-	font-size: 18px;
 	margin-left: 370px;
+	margin-right: 400px;
 } 
 
 a:link, a:visited {
 	text-decoration: none;
-}
+} 
 
 a {
 	color: #FFFFFF;
+	display: inline;
+	font-size: 30px;
+	text-decoration: none;
+	font-family: "Times New Roman";
+	word-spacing: 15px;
+	text-decoration: none;
+	text-align: center;
 }
 
 p {
 	line-height: 10px;
+}
+
+hr {
+	width: 110%;
 }
 
 h4 {
@@ -29,7 +39,6 @@ h4 {
 
 li {
 	font-size: 15px;
-	margin-right: 370px;
 }
 
 .line {
@@ -43,9 +52,11 @@ li {
 	text-decoration: none;
 } 
 
-head {
+div {
 	text-align: center;
 }
+
+
 
 
 
