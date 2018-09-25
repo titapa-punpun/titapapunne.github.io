@@ -1,27 +1,16 @@
 
 hr {
 	width: 110%;
+	margin-right: 50px;
 }
-
-.line {
-	color: #FFFFFF;
-	text-align: center;
-	display: inline;
-	font-size: 30px;
-	margin-left: 15px;
-	text-align: left;
-	text-decoration: none;
-	font-family: "Times New Roman";
-	word-spacing: 15px;
-	text-decoration: none;
-} 
 
 body {
 	font-family: "HelveticaNeue-Light";
-	background-color: #373535; 
-	color: #BBA9C0;
+	background-color: #2A2A2B; 
+	color: #DDDDDF;
 	font-size: 18px;
-	text-align: center;
+	text-align: left;
+	margin-left: 370px;
 } 
 
 a:link, a:visited {
@@ -31,3 +20,36 @@ a:link, a:visited {
 a {
 	color: #FFFFFF;
 }
+
+head {
+	text-align: center;
+}
+
+p {
+	line-height: 10px;
+}
+
+h4 {
+	line-height: 5px;
+}
+
+li {
+	font-size: 15px;
+	margin-right: 370px;
+}
+
+.line {
+	color: #FFFFFF;
+	display: inline;
+	font-size: 30px;
+	margin-left: 15px;
+	text-decoration: none;
+	font-family: "Times New Roman";
+	word-spacing: 15px;
+	text-decoration: none;
+	text-align: center;
+} 
+
+
+
+
