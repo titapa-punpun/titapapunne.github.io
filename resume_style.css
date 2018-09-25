@@ -1,7 +1,6 @@
 
 hr {
 	width: 110%;
-	margin-right: 50px;
 }
 
 body {
@@ -9,7 +8,6 @@ body {
 	background-color: #2A2A2B; 
 	color: #DDDDDF;
 	font-size: 18px;
-	text-align: left;
 	margin-left: 370px;
 } 
 
@@ -19,10 +17,6 @@ a:link, a:visited {
 
 a {
 	color: #FFFFFF;
-}
-
-head {
-	text-align: center;
 }
 
 p {
@@ -39,17 +33,19 @@ li {
 }
 
 .line {
+	text-align: center;
 	color: #FFFFFF;
 	display: inline;
 	font-size: 30px;
-	margin-left: 15px;
 	text-decoration: none;
 	font-family: "Times New Roman";
 	word-spacing: 15px;
 	text-decoration: none;
-	text-align: center;
 } 
 
+head {
+	text-align: center;
+}
 
 
 
